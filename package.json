@@ -1,0 +1,19 @@
+{
+  "name": "react-native-get-random-values-peer-deps-test",
+  "version": "0.0.1",
+  "description": "Test peerDependencies with react-native polyfills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/react-native-get-random-values-peer-deps-test.git"
+  },
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test/issues"
+  },
+  "homepage": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test#readme"
+}
