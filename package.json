@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "Test peerDependencies with react-native polyfills",
   "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "repository": "git@github.com:trivikr/react-native-get-random-values-peer-deps-test.git",
   "author": "Kamat, Trivikram <16024985+trivikr@users.noreply.github.com>",
   "license": "MIT"
