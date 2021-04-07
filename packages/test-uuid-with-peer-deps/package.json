@@ -18,6 +18,6 @@
     "url": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test/issues"
   },
   "dependencies": {
-    "uuid-with-peer-deps": "0.0.1"
+    "uuid-with-peer-deps": "file:../uuid-with-peer-deps"
   }
 }
