@@ -16,5 +16,16 @@
   },
   "bugs": {
     "url": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test/issues"
+  },
+  "dependencies": {
+    "uuid": "8.3.2"
+  },
+  "peerDependencies": {
+    "react-native-get-random-values": "^1.6.0"
+  },
+  "peerDependenciesMeta": {
+    "react-native-get-random-values": {
+      "optional": true
+    }
   }
 }
