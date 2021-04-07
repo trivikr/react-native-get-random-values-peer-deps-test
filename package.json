@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test/issues"
   },
-  "homepage": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test#readme"
+  "homepage": "https://github.com/trivikr/react-native-get-random-values-peer-deps-test#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
