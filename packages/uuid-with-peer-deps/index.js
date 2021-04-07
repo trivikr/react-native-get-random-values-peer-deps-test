@@ -1,5 +1,2 @@
 import { v4 } from "uuid";
-
-const uuidv4 = v4();
-
-export { uuidv4 };
+export { v4 as uuidv4 };
